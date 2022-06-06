@@ -1,4 +1,3 @@
-from math import sqrt
 class Point:
     def __init__(self, coordinateX, coordinateY, coordinateZ):
         self._x = coordinateX
